@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEQ,cAFM,CACV,UAAU,CACN,GAAG,CAAA;EACC,sBAAsB,EAAE,IAAI;EAC5B,uBAAuB,EAAE,IAAI;CAChC",
+    "sources": [
+        "ItemMenu.scss"
+    ],
+    "names": [],
+    "file": "ItemMenu.css"
+}
