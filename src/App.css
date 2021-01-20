@@ -5,6 +5,10 @@
   color: #424749;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+
 .App {
   text-align: center;
 }
